@@ -1,0 +1,6 @@
+#  Sum of Integers from 1 to 50 Using a Loop
+
+sum=0
+for i in range(50):
+  sum +=i
+print(f"The sum of first 50 numbers is:{sum}")
